@@ -1,0 +1,44 @@
+body {
+  text-align: center;
+  background-color: aquamarine;
+  font-family: "Bebas Neue", cursive;
+}
+
+ol,
+ul {
+  list-style: inside;
+}
+
+.ul-title {
+  list-style: none;
+}
+
+.nav-title {
+  color: blueviolet;
+  padding: 0;
+  margin: 0;
+}
+
+.ul-title li {
+  display: inline;
+}
+
+p,
+.fs-20 {
+  font-size: 20px;
+}
+
+h2,
+h3 {
+  color: darksalmon;
+}
+
+.ul-title li a {
+  padding: 5px;
+  color: maroon;
+}
+
+img {
+  width: 400px;
+  height: 500px;
+}
